@@ -2,8 +2,8 @@
 
 > A real-time audio AI agent that understands emotions from your voice, transcribes your speech, and responds with the same emotional context — built with FastAPI, Whisper, wav2vec2, GPT-4o, and ElevenLabs.
 
-P.S. If you're reading this, I do actually need some help building this product, submit an issue so that i can reach out to you. 
 ---
+P.S. If you're reading this, I do actually need some help building this product, submit an issue so that i can reach out to you. 
 
 ## Overview
 
